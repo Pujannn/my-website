@@ -50,9 +50,7 @@ nav a:hover {
 
 section {
     padding: 20em;
-    margin-top:60em;
-    margin-right:10em;
-    margin-left:10em;
+    margin :0;
     border: 0em solid #1B262C;
     text-align: left;
     background-color: #DBE2EF;
@@ -74,9 +72,7 @@ aside{
     padding: 20em;
     box-sizing: border-box;		
     height: inherit;
-    margin-bottom: 80em;
-    margin-left: 100em;
-    margin-top: 80em;
+    margin:0;
     border-radius:30em ;
 }
 
@@ -97,7 +93,9 @@ article {
     width: 100%;
     box-sizing:border-box;
     margin-right: 100em;
-    margin-top: 20em;
+    margin-left: 100em;
+    margin-top: 60em;
+    margin-bottom: 60em;
     border-radius: 10em;
 }
 
